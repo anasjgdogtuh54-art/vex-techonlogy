@@ -1,0 +1,6 @@
+{
+  "name": "VEX TECHNOLOGY",
+  "description": "منصة تقنية متطورة لتقديم حلول الويب، وإدارة الأعمال، والأمن الرقمي، والدعم الفني | Transforming your vision into a digital experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
